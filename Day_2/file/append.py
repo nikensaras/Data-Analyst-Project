@@ -1,0 +1,11 @@
+with open("Day_2/file/data.txt", "a") as file:
+    file.write("Baris 11\n")
+    file.write("Baris 12\n")
+    file.write("Baris 13\n")
+    file.write("Baris 14\n")
+    file.write("Baris 15\n")
+    file.write("Baris 16\n")
+    file.write("Baris 17\n")
+    file.write("Baris 18\n")
+    file.write("Baris 19\n")
+    file.write("Baris 20\n")
